@@ -1,0 +1,33 @@
+User-agent: *
+Allow: /
+Disallow: /login
+Disallow: /signup
+Disallow: /*?q=
+
+Sitemap: https://www.traderhub.vn/sitemap.xml
+Sitemap: https://www.traderhub.vn/academy-sitemap.xml
+Sitemap: https://www.traderhub.vn/forum-sitemap.xml
+Sitemap: https://www.traderhub.vn/tin-tuc-sitemap.xml
+
+Sitemap: https://www.traderhub.vn/blog-trading-sitemap.xml
+Sitemap: https://www.traderhub.vn/videos-sitemap.xml
+Sitemap: https://www.traderhub.vn/tai-lieu-noi-bat-sitemap.xml
+Sitemap: https://www.traderhub.vn/bai-viet-duoc-quan-tam-nhat-sitemap.xml
+Sitemap: https://www.traderhub.vn/chu-de-duoc-thao-luan-nhieu-nhat-sitemap.xml
+Sitemap: https://www.traderhub.vn/su-kien-duoc-quan-tam-nhat-sitemap.xml
+
+Sitemap: https://www.traderhub.vn/chia-se-kien-thuc-sitemap.xml
+Sitemap: https://www.traderhub.vn/tin-nhanh-chung-khoan-sitemap.xml
+
+Sitemap: https://www.traderhub.vn/anh-vui-trading-sitemap.xml
+Sitemap: https://www.traderhub.vn/boc-phot-san-lua-dao-sitemap.xml
+Sitemap: https://www.traderhub.vn/chia-se-kinh-nghiem-giao-dich-sitemap.xml
+Sitemap: https://www.traderhub.vn/de-xuat-y-tuong-sitemap.xml
+Sitemap: https://www.traderhub.vn/goc-rao-vat-sitemap.xml
+Sitemap: https://www.traderhub.vn/hoi-dap-ve-san-sitemap.xml
+Sitemap: https://www.traderhub.vn/kien-thuc-giao-dich-cfds-va-forex-sitemap.xml
+Sitemap: https://www.traderhub.vn/kien-thuc-giao-dich-hang-hoa-sitemap.xml
+Sitemap: https://www.traderhub.vn/kien-thuc-giao-dich-tien-dien-tu-sitemap.xml
+Sitemap: https://www.traderhub.vn/kien-thuc-giao-dich-vang-sitemap.xml
+Sitemap: https://www.traderhub.vn/review-sach-hay-sitemap.xml
+Sitemap: https://www.traderhub.vn/review-ve-san-sitemap.xml

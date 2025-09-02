@@ -1,0 +1,30 @@
+<svg width="712" height="1025" viewBox="0 0 712 1025" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<circle cx="649" cy="769" r="8" transform="rotate(90 649 769)" stroke="#333333" stroke-opacity="0.1" stroke-width="2"/>
+<circle cx="613" cy="769" r="9" transform="rotate(90 613 769)" fill="#333333" fill-opacity="0.1"/>
+<circle cx="613" cy="805" r="8" transform="rotate(90 613 805)" stroke="#333333" stroke-opacity="0.1" stroke-width="2"/>
+<circle cx="649" cy="805" r="9" transform="rotate(90 649 805)" fill="#333333" fill-opacity="0.1"/>
+<circle cx="577" cy="769" r="8" transform="rotate(90 577 769)" stroke="#333333" stroke-opacity="0.1" stroke-width="2"/>
+<circle cx="541" cy="769" r="9" transform="rotate(90 541 769)" fill="#333333" fill-opacity="0.1"/>
+<circle cx="541" cy="805" r="8" transform="rotate(90 541 805)" stroke="#333333" stroke-opacity="0.1" stroke-width="2"/>
+<circle cx="577" cy="805" r="9" transform="rotate(90 577 805)" fill="#333333" fill-opacity="0.1"/>
+<path d="M0 626.553L39.872 558.201L74.1919 547.629L112.235 473.86L133.856 596.529L175.08 626.553L203.696 749.966L244.097 626.553L272.369 541.113L309.866 596.529L362.281 638.379L404.028 626.553L413.49 514.636L457.774 473.86L480.655 422.106L508.283 558.201L556.687 626.553L712 300" stroke="#333333" stroke-opacity="0.12" stroke-width="2" stroke-linecap="square"/>
+<ellipse cx="420" cy="37" rx="9" ry="9" fill="#333333" fill-opacity="0.1"/>
+<ellipse cx="420" cy="73" rx="9" ry="9" fill="#333333" fill-opacity="0.1"/>
+<ellipse cx="456" cy="73" rx="8.99999" ry="9" fill="#333333" fill-opacity="0.1"/>
+<ellipse cx="456" cy="37" rx="8.99999" ry="9" fill="#333333" fill-opacity="0.1"/>
+<ellipse cx="420" cy="109" rx="9" ry="9.00002" fill="#333333" fill-opacity="0.1"/>
+<ellipse cx="420" cy="145" rx="9" ry="9.00002" fill="#333333" fill-opacity="0.1"/>
+<ellipse cx="456" cy="145" rx="8.99999" ry="9.00002" fill="#333333" fill-opacity="0.1"/>
+<ellipse cx="456" cy="109" rx="8.99999" ry="9.00002" fill="#333333" fill-opacity="0.1"/>
+<circle cx="710" cy="144" r="80" fill="#333333" fill-opacity="0.1"/>
+<rect x="480.213" y="396.427" width="30" height="30" transform="rotate(-135 480.213 396.427)" fill="#333333" fill-opacity="0.1"/>
+<circle cy="273" r="60" fill="#333333" fill-opacity="0.1"/>
+<circle cx="415" cy="1025" r="100" fill="#333333" fill-opacity="0.1"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="712" height="1025" fill="white"/>
+</clipPath>
+</defs>
+</svg>
